@@ -2,6 +2,10 @@
 cv20250710-unimi-nelson (2).pdf
 cv.md
 
+# Scratch / tooling artifacts
+tmp/
+.playwright-mcp/
+
 # Logs
 logs
 *.log
