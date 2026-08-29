@@ -1283,6 +1283,10 @@ section,
   margin-bottom: 6px;
 }
 
+.experience .item .year.role-title {
+  font-size: 18px;
+}
+
 .experience .item h4 {
   font-size: 18px;
   font-weight: 600;
